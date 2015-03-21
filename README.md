@@ -22,3 +22,6 @@
 * asian food
 * influence of social technology
 
+```
+var project = new GreatIdea();
+```
